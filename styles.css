@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 body \{\
+    background-color: teal;\
+    color: white;\
+    font-family: Arial, sans-serif;\
+\}\
+\
+header \{\
+    background-color: yellow;\
+    text-align: center;\
+    padding: 20px;\
+\}\
+\
+.container \{\
+    display: flex;\
+    justify-content: space-around;\
+    padding: 20px;\
+\}\
+\
+.child-section, .parent-section, .daycare-section \{\
+    background-color: peach;\
+    padding: 20px;\
+    border-radius: 10px;\
+    width: 30%;\
+\}\
+\
+.child-section \{\
+    border: 2px solid teal;\
+\}\
+\
+.parent-section \{\
+    border: 2px solid yellow;\
+\}\
+\
+.daycare-section \{\
+    border: 2px solid peach;\
+\}\
+\
+h2 \{\
+    color: teal;\
+\}\
+\
+/* Add more styling as needed */\
+}
